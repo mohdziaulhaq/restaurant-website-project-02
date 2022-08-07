@@ -10,7 +10,7 @@ My name is Zia.
 
 ## Learning
 
--   I learned how to add background images to a webpage
+-   I learned how to add background images to a webpage and also learned about background-repeat, background-size and background-position property
 - It took me around 3-4 hours to build this project
 ---
 
